@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/%7Breact-deploye%7D/static/css/main.94675e02.chunk.css",
+    "main.js": "/%7Breact-deploye%7D/static/js/main.8596acd5.chunk.js",
+    "main.js.map": "/%7Breact-deploye%7D/static/js/main.8596acd5.chunk.js.map",
+    "runtime-main.js": "/%7Breact-deploye%7D/static/js/runtime-main.eb530eec.js",
+    "runtime-main.js.map": "/%7Breact-deploye%7D/static/js/runtime-main.eb530eec.js.map",
+    "static/js/2.3512f179.chunk.js": "/%7Breact-deploye%7D/static/js/2.3512f179.chunk.js",
+    "static/js/2.3512f179.chunk.js.map": "/%7Breact-deploye%7D/static/js/2.3512f179.chunk.js.map",
+    "index.html": "/%7Breact-deploye%7D/index.html",
+    "precache-manifest.8eaaf04c5301fc4f090aff77a0be746a.js": "/%7Breact-deploye%7D/precache-manifest.8eaaf04c5301fc4f090aff77a0be746a.js",
+    "service-worker.js": "/%7Breact-deploye%7D/service-worker.js",
+    "static/css/main.94675e02.chunk.css.map": "/%7Breact-deploye%7D/static/css/main.94675e02.chunk.css.map",
+    "static/js/2.3512f179.chunk.js.LICENSE.txt": "/%7Breact-deploye%7D/static/js/2.3512f179.chunk.js.LICENSE.txt",
+    "static/media/horsegif.gif": "/%7Breact-deploye%7D/static/media/horsegif.73abf012.gif",
+    "static/media/priyansh.jpeg": "/%7Breact-deploye%7D/static/media/priyansh.49b2d248.jpeg",
+    "static/media/undercon.png": "/%7Breact-deploye%7D/static/media/undercon.61cbe553.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb530eec.js",
+    "static/js/2.3512f179.chunk.js",
+    "static/css/main.94675e02.chunk.css",
+    "static/js/main.8596acd5.chunk.js"
+  ]
+}
